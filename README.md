@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Nilesh</h1>
 <h3 align="center">Computer science and IT student with a passion for blockchain, DeFi, NFTs, metaverse, and DAOs. Building decentralized apps, creating NFTs, and exploring new use cases for blockchain. Let's connect and create a more equitable and immersive future with decentralized technologies.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e4766jspxh6etb9rtbq8wpvixgwx5vrnpbi71g4bv23&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 - 🌱 I’m currently learning **NextJs**
 
